@@ -12,7 +12,6 @@ html, *{
 }
 
 .card-container{
-    border: 1px solid red;
     width: 90%;
     max-width: 900px;
     margin: 8% auto;
@@ -57,7 +56,6 @@ html, *{
 }
 
 .card-box-1{
-    border: 1px solid red;
     width: 100%;
 }
 
@@ -93,7 +91,6 @@ html, *{
 }
 
 .card-box-2{
-    border: 1px solid red;
     width: 100%;
 }
 
